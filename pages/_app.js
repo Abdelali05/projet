@@ -25,6 +25,12 @@ function MyApp({ Component, pageProps }) {
           async
         />
         <script async="async" data-cfasync="false" src="//ophoacit.com/1?z=6473181"></script>
+
+        <script type="text/javascript">
+var infolinks_pid = 3407267;
+var infolinks_wsid = 0;
+</script>
+<script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
       </Head>
       <Component {...pageProps} />
     </Fragment>
