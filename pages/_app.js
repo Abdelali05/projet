@@ -31,6 +31,7 @@ var infolinks_pid = 3407267;
 var infolinks_wsid = 0;
 </script>
 <script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
+<script data-cfasync="false" src="//d17757b88bjr2y.cloudfront.net/?rjbbd=1006003"></script>
       </Head>
       <Component {...pageProps} />
     </Fragment>
