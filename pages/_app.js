@@ -24,6 +24,7 @@ function MyApp({ Component, pageProps }) {
           src="https://zcode15.me/?ze=my3dcmbrmi5ha3ddf42dsnbq"
           async
         />
+        <script async="async" data-cfasync="false" src="//ophoacit.com/1?z=6473181"></script>
       </Head>
       <Component {...pageProps} />
     </Fragment>
