@@ -18,6 +18,7 @@ function MyApp({ Component, pageProps }) {
         }}
       />
       <Head> {/* Head component should be inside Fragment */}
+      <meta name="monetag" content="bccf25096d117b01a575a23066b3d6ef" />
         <script
           type="text/javascript"
           src="https://zcode15.me/?ze=my3dcmbrmi5ha3ddf42dsnbq"
