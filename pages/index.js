@@ -47,7 +47,7 @@ const Index = () => {
         Elevate Your Content with High-Resolution YouTube Video Thumbnails!
       </p>
       <p className="text-gray-700 ">
-        Unlock stunning visuals for your videos with our top-tier thumbnail downloader. Access premium, crystal-clear images to captivate your audience and enhance your content. Download now for a visual boost like never before.
+      YouTube Thumbnail Downloader is a free online tool that allows you to easily download YouTube video thumbnails in different sizes and qualities. All you need to do is copy a YouTube Video link, paste it in the given input box, and then press "Download YouTube Thumbnail" Your Thumbnail is ready to be downloaded in HD quality. You can also view the sample of the your YouTube video thumbnail. It supports all YouTube videos including 8K, 4K, 1080p, HD, HQ, [2] etc. [1]
       </p>
     </header>
 
