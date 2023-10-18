@@ -65,7 +65,7 @@ const Index = () => {
   style={{ fontSize: '16px', backgroundColor: '#FF5733', borderRadius: '8px' }}
   onClick={() => getYouTubeThumbnail(videoURL)}
 >
-  Download Thumbnails
+  Get  Thumbnails
 </button>
 
     </div>
