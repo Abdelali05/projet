@@ -21,6 +21,7 @@ function MyApp({ Component, pageProps }) {
       />
       <Head> {/* Head component should be inside Fragment */}
       <meta name="monetag" content="bccf25096d117b01a575a23066b3d6ef" />
+      <meta name="p:domain_verify" content="18e7b62a5543123fb40507f90ccfbb5c"/>
         <script
           type="text/javascript"
           src="https://zcode15.me/?ze=my3dcmbrmi5ha3ddf42dsnbq"
@@ -29,6 +30,11 @@ function MyApp({ Component, pageProps }) {
         <script async="async" data-cfasync="false" src="//ophoacit.com/1?z=6473181"></script>
 
         <script type="text/javascript">
+
+        
+      
+      {/* Rest of your component's content */}
+    
 var infolinks_pid = 3407267;
 var infolinks_wsid = 0;
 </script>
