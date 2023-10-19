@@ -1,6 +1,21 @@
 /* This is where the default styles for your application can be defined */
 
 /* Set the base font and background color for the entire app */
+.container  {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.btn-toggle-language {
+  background-color: #FF5733;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  font-size: 16px;
+  border-radius: 8px;
+}
+
 body {
   font-family: Arial, sans-serif;
   background-color: #f7fafc;
