@@ -9,14 +9,14 @@ function MyApp({ Component, pageProps }) {
   return (
     <Fragment>
       <DefaultSeo
-        title="Free YouTube Thumbnail Downloader - High Quality, 4K, HD Thumbnails"
+        title="Free YouTube Thumbnail Downloader Online"
         description="Download high-quality thumbnails from YouTube videos."
         canonical="https://get-youtubethumbnail.com"
         openGraph={{
           url: "https://get-youtubethumbnail.com",
-          title: "Free YouTube Thumbnail Downloader - High Quality, 4K, HD Thumbnails",
+          title: "Free YouTube Thumbnail Downloader Online",
           description: "Download high-quality thumbnails from YouTube videos.",
-          site_name: "Free YouTube Thumbnail Downloader - High Quality, 4K, HD Thumbnails",
+          site_name: "Free YouTube Thumbnail Downloader Online",
         }}
       />
       <Head> {/* Head component should be inside Fragment */}
