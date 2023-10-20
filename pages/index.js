@@ -45,23 +45,19 @@ const Index = () => {
       <header className="mb-8" style={{ width: '47%' }}>
         <h1 className="text-3xl font-bold mb-2">
           {currentLanguage === "en"
-            ? "Free YouTube Thumbnail Downloader "
-            : "Téléchargeur de Miniatures YouTube Gratuit "}
+            ? "Free YouTube Thumbnail Downloader Online"
+            : "Téléchargeur de Miniatures YouTube Gratuit Online"}
         </h1>
-        <h1 className="text-3xl font-bold mb-2">
-          {currentLanguage === "en"
-            ? "Online"
-            : "Online"}
-        </h1>
+        
         <p className="text-gray-700">
           {currentLanguage === "en"
-            ? "Elevate Your Content with High-Resolution YouTube Video Thumbnails!"
-            : "Valorisez Votre Contenu avec des Miniatures de Vidéo YouTube en Haute Résolution!"}
+            ? ""
+            : ""}
         </p>
         <p className="text-gray-700">
           {currentLanguage === "en"
-            ? "YouTube Thumbnail Downloader is a free online tool that allows you to easily download YouTube video thumbnails in different sizes and qualities. All you need to do is copy a YouTube Video link, paste it in the given input box, and then press 'Download YouTube Thumbnail' Your Thumbnail is ready to be downloaded in HD quality. You can also view the sample of the your YouTube video thumbnail. It supports all YouTube videos including 8K, 4K, 1080p, HD, HQ, etc."
-            : "Le téléchargeur de miniatures YouTube est un outil gratuit en ligne qui vous permet de télécharger facilement des miniatures de vidéos YouTube de différentes tailles et qualités. Il vous suffit de copier un lien vidéo YouTube, de le coller dans la zone de saisie prévue à cet effet, puis de cliquer sur 'Télécharger la Miniature YouTube'. Votre miniature est prête à être téléchargée en haute qualité. Vous pouvez également visualiser l'échantillon de la miniature de votre vidéo YouTube. Il prend en charge toutes les vidéos YouTube, y compris celles en 8K, 4K, 1080p, HD, HQ, etc."}
+            ? ""
+            : ""}
         </p>
       </header>
 
