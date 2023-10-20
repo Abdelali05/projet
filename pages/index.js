@@ -45,8 +45,13 @@ const Index = () => {
       <header className="mb-8" style={{ width: '47%' }}>
         <h1 className="text-3xl font-bold mb-2">
           {currentLanguage === "en"
-            ? "Free YouTube Thumbnail Downloader Online"
-            : "Téléchargeur de Miniatures YouTube Gratuit Online"}
+            ? "Free YouTube Thumbnail Downloader "
+            : "Téléchargeur de Miniatures YouTube Gratuit "}
+        </h1>
+        <h1 className="text-3xl font-bold mb-2">
+          {currentLanguage === "en"
+            ? "Online"
+            : "Online"}
         </h1>
         <p className="text-gray-700">
           {currentLanguage === "en"
