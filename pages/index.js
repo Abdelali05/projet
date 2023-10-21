@@ -77,7 +77,8 @@ const Index = () => {
           >
             {currentLanguage === "en" ? "Download YouTube Thumbnail" : "Télécharger la Miniature YouTube"}
           </button>
-          <button onClick={toggleLanguage} className="btn-blue mt-2">
+          <button onClick={toggleLanguage} className="btn-blue mt-2" style={{ marginLeft: '30px' }}>
+
         {currentLanguage === "en" ? "Toggle Language" : "Changer de Langue"}
       </button>
         </div>
