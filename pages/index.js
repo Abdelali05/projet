@@ -107,15 +107,21 @@ const Index = () => {
 
       <div className="mt-8">
         <h2 className="text-xl font-semibold mb-4">
-          {currentLanguage === "en" ? "About YT Thumbnail Downloader" : "À Propos du Téléchargeur de Miniatures YT"}
+          {currentLanguage === "en" ? "Free Online thumbnail  Youtube Downloader" : " Téléchargeur de Miniatures gratuit"}
         </h2>
         <p className="text-gray-700">
           {currentLanguage === "en"
-            ? "Our YT (YouTube Thumbnail) Downloader is a powerful tool that allows you to efficiently 'Get Youtube Thumbnail js' without the need for any installations. It's completely 'free download' for anyone looking to 'get youtube thumbnail from URL'."
-            : "Notre Téléchargeur de Miniatures YT (YouTube Thumbnail) est un outil puissant qui vous permet d'obtenir efficacement des miniatures YouTube sans avoir besoin d'installer quoi que ce soit. C'est un téléchargement complètement gratuit pour toute personne cherchant à obtenir une miniature YouTube à partir de l'URL."}
+            ? "Discover our Free Online Thumbnail YouTube Downloader, your go-to destination for snagging vibrant and high-resolution thumbnails from YouTube videos. Our user-friendly tool simplifies the process, allowing you to effortlessly preview and download eye-catching thumbnails in various sizes and resolutions. Whether you're a content creator, marketer, or video enthusiast, our free service is tailored to meet your needs. Elevate your YouTube content with professionally curated thumbnails – try it now and make your videos stand out!."
+            : "Découvrez notre Téléchargeur de Miniatures YouTube gratuit en ligne, votre destination privilégiée pour obtenir des miniatures vibrantes et haute résolution à partir de vidéos YouTube. Notre outil convivial simplifie le processus, vous permettant de prévisualiser et de télécharger facilement des miniatures accrocheuses de différentes tailles et résolutions. Que vous soyez créateur de contenu, marketeur ou passionné de vidéos, notre service gratuit est conçu pour répondre à vos besoins. Rehaussez le contenu de votre chaîne YouTube avec des miniatures professionnellement conçues - essayez-le maintenant et démarquez-vous !."}
         </p>
-
-        {/* ... Rest of your content in both languages ... */}
+        <h2 className="text-xl font-semibold mb-4">
+          {currentLanguage === "en" ? "How to download Youtube Thumbnail?" : "Comment télécharger une miniature YouTube ?"}
+        </h2>
+        <p className="text-gray-700">
+          {currentLanguage === "en"
+            ? "Discover our Free Online Thumbnail YouTube Downloader, your go-to destination for snagging vibrant and high-resolution thumbnails from YouTube videos. Our user-friendly tool simplifies the process, allowing you to effortlessly preview and download eye-catching thumbnails in various sizes and resolutions. Whether you're a content creator, marketer, or video enthusiast, our free service is tailored to meet your needs. Elevate your YouTube content with professionally curated thumbnails – try it now and make your videos stand out!."
+            : "Découvrez notre Téléchargeur de Miniatures YouTube gratuit en ligne, votre destination privilégiée pour obtenir des miniatures vibrantes et haute résolution à partir de vidéos YouTube. Notre outil convivial simplifie le processus, vous permettant de prévisualiser et de télécharger facilement des miniatures accrocheuses de différentes tailles et résolutions. Que vous soyez créateur de contenu, marketeur ou passionné de vidéos, notre service gratuit est conçu pour répondre à vos besoins. Rehaussez le contenu de votre chaîne YouTube avec des miniatures professionnellement conçues - essayez-le maintenant et démarquez-vous !."}
+        </p>
       </div>
 
       {/* ... Additional content ... */}
