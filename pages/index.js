@@ -115,7 +115,8 @@ const Index = () => {
             : "Découvrez notre Téléchargeur de Miniatures YouTube gratuit en ligne, votre destination privilégiée pour obtenir des miniatures vibrantes et haute résolution à partir de vidéos YouTube. Notre outil convivial simplifie le processus, vous permettant de prévisualiser et de télécharger facilement des miniatures accrocheuses de différentes tailles et résolutions. Que vous soyez créateur de contenu, marketeur ou passionné de vidéos, notre service gratuit est conçu pour répondre à vos besoins. Rehaussez le contenu de votre chaîne YouTube avec des miniatures professionnellement conçues - essayez-le maintenant et démarquez-vous !."}
         </p>
         <h2 className="text-xl font-semibold mb-4">
-          {currentLanguage === "en" ? "How to download Youtube Thumbnail?" : "Comment télécharger une miniature YouTube ?"}
+          {currentLanguage === "en" ? "How to download a Youtube Thumbnail?" : "Comment télécharger une miniature YouTube ?"}
+          
         </h2>
         <p className="text-gray-700">
           {currentLanguage === "en"
