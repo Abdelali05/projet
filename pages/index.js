@@ -107,7 +107,7 @@ const Index = () => {
 
       <div className="mt-8">
         <h2 className="text-xl font-semibold mb-4">
-          {currentLanguage === "en" ? "Free Online thumbnail  Youtube Downloader" : " Téléchargeur de Miniatures gratuit"}
+          {currentLanguage === "en" ? "Free Online thumbnail  Youtube Downloader" : " Téléchargeur de Miniatures gratuit en ligne "}
         </h2>
         <p className="text-gray-700">
           {currentLanguage === "en"
@@ -115,14 +115,36 @@ const Index = () => {
             : "Découvrez notre Téléchargeur de Miniatures YouTube gratuit en ligne, votre destination privilégiée pour obtenir des miniatures vibrantes et haute résolution à partir de vidéos YouTube. Notre outil convivial simplifie le processus, vous permettant de prévisualiser et de télécharger facilement des miniatures accrocheuses de différentes tailles et résolutions. Que vous soyez créateur de contenu, marketeur ou passionné de vidéos, notre service gratuit est conçu pour répondre à vos besoins. Rehaussez le contenu de votre chaîne YouTube avec des miniatures professionnellement conçues - essayez-le maintenant et démarquez-vous !."}
         </p>
         <h2 className="text-xl font-semibold mb-4">
-          {currentLanguage === "en" ? "How to download a Youtube Thumbnail?" : "Comment télécharger une miniature YouTube ?"}
-          
-        </h2>
-        <p className="text-gray-700">
-          {currentLanguage === "en"
-            ? "Discover our Free Online Thumbnail YouTube Downloader, your go-to destination for snagging vibrant and high-resolution thumbnails from YouTube videos. Our user-friendly tool simplifies the process, allowing you to effortlessly preview and download eye-catching thumbnails in various sizes and resolutions. Whether you're a content creator, marketer, or video enthusiast, our free service is tailored to meet your needs. Elevate your YouTube content with professionally curated thumbnails – try it now and make your videos stand out!."
-            : "Découvrez notre Téléchargeur de Miniatures YouTube gratuit en ligne, votre destination privilégiée pour obtenir des miniatures vibrantes et haute résolution à partir de vidéos YouTube. Notre outil convivial simplifie le processus, vous permettant de prévisualiser et de télécharger facilement des miniatures accrocheuses de différentes tailles et résolutions. Que vous soyez créateur de contenu, marketeur ou passionné de vidéos, notre service gratuit est conçu pour répondre à vos besoins. Rehaussez le contenu de votre chaîne YouTube avec des miniatures professionnellement conçues - essayez-le maintenant et démarquez-vous !."}
-        </p>
+  {currentLanguage === "en"
+    ? "How Can I Easily Obtain YouTube Video Thumbnails Online?"
+    : "Comment puis-je facilement obtenir des miniatures de vidéos YouTube en ligne ?"}
+</h2>
+<p className="text-gray-700">
+  {currentLanguage === "en" ? (
+    <>
+      Effortlessly Obtain YouTube Video Thumbnails with Our Specialized Tool. If you're looking to download YouTube video thumbnails, our user-friendly tool streamlines the process. Follow these simple steps for a seamless experience:<br />
+      1) Find the YouTube video for which you'd like to acquire the thumbnail.<br />
+      2) Click the 'Share' icon conveniently located below the video player.<br />
+      3) Opt to 'Copy' from the provided options, or simply copy the URL from your browser's address bar.<br />
+      4) Proceed to our dedicated YouTube Thumbnail Downloader page.<br />
+      5) Paste the copied link into the designated input field.<br />
+      6) Hit 'download', and within moments, your high-quality thumbnail will be ready for download.
+    </>
+  ) : (
+    <>
+      Obtenez Facilement les Miniatures de Vidéo YouTube avec Notre Outil Spécialisé. Si vous souhaitez télécharger des miniatures de vidéos YouTube, notre outil convivial simplifie le processus. Suivez ces étapes simples pour une expérience fluide :<br />
+    
+1) Trouvez la vidéo YouTube dont vous souhaitez obtenir la miniature.<br />
+2) Cliquez sur l'icône 'Partager' située commodément sous le lecteur vidéo.<br />
+3) Choisissez 'Copier' parmi les options fournies, ou copiez simplement l'URL depuis la barre d'adresse de votre navigateur.<br />
+4) Rendez-vous sur notre page dédiée au Téléchargement de Miniatures YouTube.<br />
+5) Collez le lien copié dans le champ d'entrée prévu à cet effet.<br />
+6) Cliquez sur 'télécharger', et en quelques instants, votre miniature de haute qualité sera prête au téléchargement.<br />
+
+    </>
+  )}
+</p>
+
       </div>
 
       {/* ... Additional content ... */}
