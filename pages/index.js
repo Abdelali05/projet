@@ -97,7 +97,7 @@ const Index = () => {
         </div>
       )}
 
-<div className="mt-8 text center">
+<div className="mt-8 text center" style="padding:9%">
   <h2 className="text-2xl font-semibold mb-4 text-blue-600">
     {currentLanguage === "en"
       ? "Free Online YouTube Thumbnail Downloader"
