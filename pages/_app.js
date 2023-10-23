@@ -37,8 +37,7 @@ function MyApp({ Component, pageProps }) {
       
       {/* Rest of your component's content */}
     
-var infolinks_pid = 3407267;
-var infolinks_wsid = 0;
+
 </script>
 
 <script data-cfasync="false" src="//d17757b88bjr2y.cloudfront.net/?rjbbd=1006003"></script>
