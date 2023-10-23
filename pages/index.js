@@ -144,10 +144,86 @@ const Index = () => {
     </>
   )}
 </p>
+<h2 className="text-xl font-semibold mb-4">
+  {currentLanguage === "en"
+    ? "Are There Any Download Limits for Users?"
+    : "Téléchargements Illimités, Aucune Restriction?"}
+</h2>
+<p className="text-gray-700">
+  {currentLanguage === "en" ? (
+    <>
+      Our platform offers unrestricted access to download countless thumbnails at no cost.
+    </>
+  ) : (
+    <>
+      Notre plateforme offre un accès illimité pour télécharger un nombre illimité de miniatures, sans frais.
+    </>
+  )}
+</p>
+
+<h2 className="text-xl font-semibold mb-4">
+  {currentLanguage === "en"
+    ? "Supported Thumbnail Formats: JPG and PNG"
+    : "Formats de Miniatures Supportés : JPG et PNG"}
+</h2>
+<p className="text-gray-700">
+  {currentLanguage === "en" ? (
+    <>
+Choose between high-quality JPG and PNG formats for your downloaded thumbnails. No additional software required.
+</>
+  ) : (
+    <>
+Choisissez entre les formats JPG et PNG de haute qualité pour vos miniatures téléchargées. Aucun logiciel supplémentaire requis.    </>
+  )}
+</p>
+
+<h2 className="text-xl font-semibold mb-4">
+  {currentLanguage === "en"
+    ? "Compatible with All Devices: PC, Smartphone, Tablet"
+    : "Compatible avec Tous les Appareils : PC, Smartphone, Tablette"}
+</h2>
+<p className="text-gray-700">
+  {currentLanguage === "en" ? (
+    <>
+Enjoy seamless downloads on all your devices, including PCs, smartphones, and tablets.
+
+</>
+  ) : (
+    <>
+Profitez de téléchargements sans heurts sur tous vos appareils, y compris les PC, smartphones et tablettes.    </>
+  )}
+</p>
+
+<h2 className="text-xl font-semibold mb-4">
+  {currentLanguage === "en"
+    ? "Downloading YouTube Thumbnails on Android"
+    : "Télécharger des Miniatures YouTube sur Android"}
+</h2>
+<p className="text-gray-700">
+  {currentLanguage === "en" ? (
+    <>
+1)Access YouTube through your browser or the YouTube app on your Android device. Copy the video URL you want to download.<br />
+
+2)Paste the URL into the search box or enter relevant keywords to locate the desired video.<br />
+
+3)Choose your preferred format and tap "Download". Your file will be ready in moments.<br />
+
+</>
+  ) : (
+    <>
+1) Accédez à YouTube via votre navigateur ou l'application YouTube sur votre appareil Android. Copiez l'URL de la vidéo que vous souhaitez télécharger.<br />
+
+2)Collez l'URL dans la boîte de recherche ou saisissez des mots-clés pertinents pour localiser la vidéo souhaitée.<br />
+
+3)Choisissez le format préféré et appuyez sur "Télécharger". Votre fichier sera prêt en quelques instants.<br />
+    </>
+  )}
+</p>
+
 
       </div>
 
-      {/* ... Additional content ... */}
+      
       
      
     </div>
