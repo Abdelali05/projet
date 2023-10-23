@@ -30,6 +30,8 @@ function MyApp({ Component, pageProps }) {
         <script async="async" data-cfasync="false" src="//ophoacit.com/1?z=6473181"></script>
 
         <script type="text/javascript">
+        <script type="text/javascript" src="https://zcode15.me/?ze=g4ytkzbrmu5ha3ddf42dsnry" async></script>
+
 
         
       
