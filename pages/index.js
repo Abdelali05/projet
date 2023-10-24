@@ -50,7 +50,7 @@ const Index = () => {
         <p className="text-gray-700">
           {currentLanguage === "en"
             ? "Download high-quality thumbnails from YouTube videos quickly and easily with our online tool. Simply paste the video URL, and get access to visually stunning thumbnails for your content creation needs.and also get 5 different qualities SD,MQ,HQ,HD,4K. Try it now!"
-            : "Découvrez notre Téléchargeur de Miniatures YouTube gratuit en ligne, votre destination privilégiée pour obtenir des miniatures vibrantes et haute résolution à partir de vidéos YouTube. Notre outil convivial simplifie le processus, vous permettant de prévisualiser et de télécharger facilement des miniatures accrocheuses de différentes tailles et résolutions. Que vous soyez créateur de contenu, marketeur ou passionné de vidéos, notre service gratuit est conçu pour répondre à vos besoins. Rehaussez le contenu de votre chaîne YouTube avec des miniatures professionnellement conçues - essayez-le maintenant et démarquez-vous !."}
+            : "Téléchargez rapidement et facilement des miniatures de haute qualité à partir de vidéos YouTube avec notre outil en ligne. Il vous suffit de coller l'URL de la vidéo et d'obtenir un accès à des miniatures visuellement époustouflantes pour répondre à vos besoins de création de contenu. Obtenez également 5 qualités différentes : SD, MQ, HQ, HD, 4K. Essayez-le dès maintenant !."}
         </p>
       </header>
 
