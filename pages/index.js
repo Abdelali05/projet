@@ -49,7 +49,7 @@ const Index = () => {
         
         <p className="text-gray-700">
           {currentLanguage === "en"
-            ? "Download high-quality thumbnails from YouTube videos quickly and easily with our online tool. Simply paste the video URL, and get access to visually stunning thumbnails for your content creation needs.and also get 5 different qualities SD,MQ,HQ,HD,4K. Try it now!"
+            ? "Are you looking for a fast and easy way to download YouTube thumbnails in high quality? Whether you need them for your own videos or for inspiration, our online tool can help you. Just enter the YouTube video URL and choose from five different qualities: SD, MQ, HQ, HD, and 4K. You can download the thumbnails as JPEG or WebP images and use them for your content creation needs. Our tool is free, reliable, and compatible with all devices. Try it now and see the difference!"
             : "Téléchargez rapidement et facilement des miniatures de haute qualité à partir de vidéos YouTube avec notre outil en ligne. Il vous suffit de coller l'URL de la vidéo et d'obtenir un accès à des miniatures visuellement époustouflantes pour répondre à vos besoins de création de contenu. Obtenez également 5 qualités différentes : SD, MQ, HQ, HD, 4K. Essayez-le dès maintenant !."}
         </p>
       </header>
