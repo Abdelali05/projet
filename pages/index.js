@@ -167,7 +167,7 @@ Our YouTube Thumbnail Downloader tool is compatible with all devices, including 
 
 <b>1-</b> Go to our YouTube Thumbnail Downloader page.<br /><br />
 <b>2-</b>Paste the URL of the video whose thumbnail you want to download into the input field.<br /><br />
-<b>3-</b>Click on the “Download” button and wait for a few seconds.<br />
+<b>3-</b>Click on the “Download” button and wait for a few seconds.<br /><br />
 <b>5-</b>You will see a preview of the thumbnail and a list of different sizes and resolutions available for download.<br /><br />
 <b>6-</b>Choose the size and resolution you want and click on the “Download” button below it.<br /><br />
 <b>7-</b>Your thumbnail will be downloaded to your device in JPG or PNG format.<br /><br />
