@@ -157,21 +157,21 @@ YouTube thumbnails are important for several reasons:<br />
   <p className="text-gray-700 mb-6">
     {currentLanguage === "en" ? (
       <>
-       If you don’t want to use the manual method of downloading YouTube thumbnails, you can use some online tools and extensions that can make the process easier and faster. There are many online tools and extensions available for downloading YouTube thumbnails, but we recommend using our free online YouTube Thumbnail Downloader tool, which is the best and most reliable one.<br />
+       If you don’t want to use the manual method of downloading YouTube thumbnails, you can use some online tools and extensions that can make the process easier and faster. There are many online tools and extensions available for downloading YouTube thumbnails, but we recommend using our free online YouTube Thumbnail Downloader tool, which is the best and most reliable one.<br /><br />
 
-Our YouTube Thumbnail Downloader tool is a user-friendly and powerful tool that allows you to download any YouTube thumbnail in seconds. You just need to copy and paste the URL of the video you want to download the thumbnail from, and our tool will do the rest. You can choose from different sizes and resolutions of thumbnails, and download them in JPG or PNG format. You can also preview the thumbnails before downloading them.<br />
+Our YouTube Thumbnail Downloader tool is a user-friendly and powerful tool that allows you to download any YouTube thumbnail in seconds. You just need to copy and paste the URL of the video you want to download the thumbnail from, and our tool will do the rest. You can choose from different sizes and resolutions of thumbnails, and download them in JPG or PNG format. You can also preview the thumbnails before downloading them.<br /><br />
 
-Our YouTube Thumbnail Downloader tool is compatible with all devices, including PCs, smartphones, and tablets. You can access it from any browser, without installing any software or extension. You can also use it to download thumbnails from your own videos, from other videos, and from playlists and channels.<br />
+Our YouTube Thumbnail Downloader tool is compatible with all devices, including PCs, smartphones, and tablets. You can access it from any browser, without installing any software or extension. You can also use it to download thumbnails from your own videos, from other videos, and from playlists and channels.<br /><br />
 
 <b>To use our YouTube Thumbnail Downloader tool, follow these simple steps:<br /></b><br />
 
-<b>1-</b> Go to our YouTube Thumbnail Downloader page.<br />
-<b>2-</b>Paste the URL of the video whose thumbnail you want to download into the input field.<br />
+<b>1-</b> Go to our YouTube Thumbnail Downloader page.<br /><br />
+<b>2-</b>Paste the URL of the video whose thumbnail you want to download into the input field.<br /><br />
 <b>3-</b>Click on the “Download” button and wait for a few seconds.<br />
-<b>5-</b>You will see a preview of the thumbnail and a list of different sizes and resolutions available for download.<br />
-<b>6-</b>Choose the size and resolution you want and click on the “Download” button below it.<br />
-<b>7-</b>Your thumbnail will be downloaded to your device in JPG or PNG format.<br />
-That’s it! You have successfully downloaded the thumbnail of any YouTube video using our free online tool. You can repeat this process for any other video you want. You can also use this tool to make your own YouTube thumbnails, which we will show you in the next section.<br />
+<b>5-</b>You will see a preview of the thumbnail and a list of different sizes and resolutions available for download.<br /><br />
+<b>6-</b>Choose the size and resolution you want and click on the “Download” button below it.<br /><br />
+<b>7-</b>Your thumbnail will be downloaded to your device in JPG or PNG format.<br /><br />
+That’s it! You have successfully downloaded the thumbnail of any YouTube video using our free online tool. You can repeat this process for any other video you want. You can also use this tool to make your own YouTube thumbnails, which we will show you in the next section.<br /><br />
       </>
     ) : (
       <>
